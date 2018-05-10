@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_hailuoshuimu_dead_0",
+    "texture": "3a5cad03-9dab-41c3-93d2-2190ac92f3f7",
+    "atlas": "86fe4526-9483-4c85-b7c9-b3a4ec696d58",
+    "rect": [
+      1954,
+      1028,
+      70,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      74
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_shayu_run_2",
+    "texture": "3a5cad03-9dab-41c3-93d2-2190ac92f3f7",
+    "atlas": "86fe4526-9483-4c85-b7c9-b3a4ec696d58",
+    "rect": [
+      861,
+      1427,
+      475,
+      208
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      475,
+      208
+    ],
+    "rotated": 1
+  }
+}

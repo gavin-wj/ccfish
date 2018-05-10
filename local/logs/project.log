@@ -1,0 +1,53 @@
+2018-05-10T01:45:06.967Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-10T01:45:06.970Z - normal: checking language setting...
+2018-05-10T01:45:06.970Z - normal: Language: zh
+2018-05-10T01:45:08.716Z - success: protocol editor-framework registered
+2018-05-10T01:45:08.716Z - success: protocol app registered
+2018-05-10T01:45:08.716Z - success: protocol theme registered
+2018-05-10T01:45:08.716Z - success: protocol packages registered
+2018-05-10T01:45:08.716Z - success: protocol unpack registerred
+2018-05-10T01:45:08.716Z - success: protocol disable-commonjs registerred
+2018-05-10T01:45:09.043Z - normal: connected!
+2018-05-10T01:45:09.048Z - normal: Check project F:\fish\ccfish
+2018-05-10T01:45:09.054Z - normal: Initializing Cocos2d
+2018-05-10T01:45:09.241Z - normal: Initializing Asset Database
+2018-05-10T01:45:09.275Z - success: protocol uuid registerred
+2018-05-10T01:45:09.276Z - success: protocol db registerred
+2018-05-10T01:45:09.276Z - success: protocol thumbnail registerred
+2018-05-10T01:45:09.276Z - normal: Loading editor/builtin packages
+2018-05-10T01:45:09.293Z - success: anysdk loaded
+2018-05-10T01:45:09.404Z - success: assets loaded
+2018-05-10T01:45:09.405Z - success: builder loaded
+2018-05-10T01:45:09.407Z - success: cocos-analytics loaded
+2018-05-10T01:45:09.409Z - success: console loaded
+2018-05-10T01:45:09.411Z - success: hierarchy loaded
+2018-05-10T01:45:09.413Z - success: inspector loaded
+2018-05-10T01:45:09.414Z - success: keystore loaded
+2018-05-10T01:45:09.416Z - success: node-library loaded
+2018-05-10T01:45:09.417Z - success: package-asset loaded
+2018-05-10T01:45:09.419Z - success: preferences loaded
+2018-05-10T01:45:09.420Z - success: project-exporter loaded
+2018-05-10T01:45:09.435Z - success: project-importer loaded
+2018-05-10T01:45:09.437Z - success: project-settings loaded
+2018-05-10T01:45:09.439Z - success: ui-kit loaded
+2018-05-10T01:45:09.440Z - success: ui-grid loaded
+2018-05-10T01:45:09.443Z - success: scene loaded
+2018-05-10T01:45:09.444Z - success: sprite-editor loaded
+2018-05-10T01:45:09.446Z - success: store loaded
+2018-05-10T01:45:09.450Z - success: timeline loaded
+2018-05-10T01:45:09.450Z - normal: Loading builtin packages
+2018-05-10T01:45:09.451Z - success: asset-db-debugger loaded
+2018-05-10T01:45:09.452Z - success: code-editor loaded
+2018-05-10T01:45:09.453Z - success: color-picker loaded
+2018-05-10T01:45:09.454Z - success: package-manager loaded
+2018-05-10T01:45:09.457Z - success: sdkbox loaded
+2018-05-10T01:45:09.466Z - success: tester loaded
+2018-05-10T01:45:09.467Z - success: ui-kit-preview-extra loaded
+2018-05-10T01:45:09.468Z - success: ui-kit-preview loaded
+2018-05-10T01:45:09.469Z - success: ui-tree loaded
+2018-05-10T01:45:10.501Z - normal: Initializing project F:\fish\ccfish
+2018-05-10T01:45:10.503Z - normal: Loading packages
+2018-05-10T01:45:10.506Z - normal: Watching packages
+2018-05-10T01:45:10.517Z - normal: Run Application
+2018-05-10T01:45:12.305Z - success: preview server running at http://localhost:7456
+2018-05-10T01:45:16.734Z - normal: 1.8.1
