@@ -8,11 +8,6 @@
 - 脚本：Typescript
 
 
-## 先看效果
-
-![捕鱼达人](screenshots/fish.gif)
-
-
 ## 知识点介绍
 
 - 属性声明和使用
