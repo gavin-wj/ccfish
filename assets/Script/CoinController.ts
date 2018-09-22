@@ -47,8 +47,6 @@ export default class CoinController extends cc.Component {
     // 获得金币
     oneCoin: cc.Node;
 
-    // LIFE-CYCLE CALLBACKS:
-
     onLoad() {
 
     }
